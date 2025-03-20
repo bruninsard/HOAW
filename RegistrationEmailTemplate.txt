@@ -1,0 +1,6 @@
+﻿Dear {{{Registration__c.Camper__c}}},
+We are excited to confirm your registration for {{{Registration__c.Camp_Program__c}}}! We look forward to welcoming you and making this an unforgettable experience.
+If you have any questions or need further assistance, feel free to reach out.
+Thank you for joining us. We can’t wait to see you there!
+Sincerely,
+{{{Sender.Name}}}
